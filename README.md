@@ -7,9 +7,9 @@ This repository contains a labeled dataset used for smishing (SMS phishing) dete
 - `Combined-Labeled-Dataset.csv`: A CSV file containing SMS messages labeled as either **smishing** or **non-smishing**.
 
 ### Columns:
-- `text`: The SMS message content.
-- `spam_label`: `0` for ham (non-spam), `1` for spam.
-- `smishing_label`: `0` for non-smishing, `1` for smishing.
+- `message`: The SMS message content.
+- `spam label`: `0` for ham (non-spam), `1` for spam.
+- `smishing label`: `0` for non-smishing, `1` for smishing.
 
 ## 🧠 Purpose
 
